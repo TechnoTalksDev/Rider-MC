@@ -1,0 +1,7 @@
+# Rider Config! #
+# true or false #
+
+#sets if the plugin uses permissions to determine if a player can ride
+usePermission: true
+#sets if the plugin requires a saddle to allow a player to ride
+requireSaddle: true

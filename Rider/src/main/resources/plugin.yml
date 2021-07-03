@@ -1,0 +1,8 @@
+name: Rider
+version: ${project.version}
+main: me.technotalks.rider.Rider
+authors: [ TechnoTalks, SecretAgent ]
+description: A simple plugin that allows you to ride animals and mobs.
+permissions:
+  rider.rideall:
+    default: op
