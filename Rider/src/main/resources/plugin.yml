@@ -1,0 +1,10 @@
+name: Ridermc
+version: ${project.version}
+main: me.technotalks.ridermc.Main
+authors: [ TechnoTalks ]
+description: A simple plugin that allows you to ride animals and mobs.
+permissions:
+  rider.bypass_saddle:
+    default: op
+  rider.rideall:
+    default: op
