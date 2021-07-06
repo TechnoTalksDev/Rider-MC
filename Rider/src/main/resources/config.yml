@@ -5,3 +5,5 @@
 usePermission: true
 #sets if the plugin requires a saddle to allow a player to ride
 requireSaddle: true
+#sets if the plugin sends a message to the payer after they mount a mob
+sendRideMessage: true
